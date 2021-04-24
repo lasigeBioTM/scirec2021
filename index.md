@@ -60,7 +60,7 @@ The evaluation metric is the [Mean Reciprocal Ranking](https://en.wikipedia.org/
 
 For access to the datasets, please fill this [form](https://forms.gle/Bik6h6Zz62HG3YxYA).
 
-First we will send the train and the validations sets, and then the test set, according to the timeline. 
+First we will release the train and the validations sets, and then the test set, according to the timeline. 
 
 
 ## Timeline
@@ -87,8 +87,10 @@ A compilation of the accepted papers will be submitted to an issue of [CEUR-WS](
 At least one author per paper needs to register to [ACM-BCB conference](https://acm-bcb.org/2021/index.php) and attend the workshop to present the work. 
 
 ## Awards
-[Unicage](https://unicage.eu/) told us that it would like to award a prize for the team that achieves the best MRR. 
+[Unicage](https://unicage.eu/) will support this event by contributing with a prize for the
+team that achieves the best MRR. 
 The prize is expected to be an open-source microcontroller board, such as arduino or similar.
+The winning team has to submit the article describing their system, and at least one member has to attend the workshop to present it.
 
 ## Organization
 
@@ -110,6 +112,6 @@ Registration at [ACM-BCB conference](https://acm-bcb.org/2021/index.php)
 
 ## Contacts
 
-## Acknowledgement 
+## Acknowledgements
 This work was supported by FCT through funding of Deep Semantic Tagger (DeST) project (ref. PTDC/CCI-BIO/28685/2017), LASIGE Research Unit (ref. UIDB/00408/2020 and ref. UIDP/00408/2020), and PhD Scholarship ref. SFRH/BD/128840/2017.
 
