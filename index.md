@@ -112,6 +112,8 @@ Registration at [ACM-BCB conference](https://acm-bcb.org/2021/index.php)
 
 ## Contacts
 
+Email: scirec2021@easychair.org
+
 ## Acknowledgements
 This work was supported by FCT through funding of Deep Semantic Tagger (DeST) project (ref. PTDC/CCI-BIO/28685/2017), LASIGE Research Unit (ref. UIDB/00408/2020 and ref. UIDP/00408/2020), and PhD Scholarship ref. SFRH/BD/128840/2017, KNODIS, and [Unicage](https://unicage.eu/). 
 
