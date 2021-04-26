@@ -10,7 +10,7 @@ The challenge provides a standard dataset of implicit feedback focused in the fi
 
 Unicage will support this event by contributing with a prize for the team that achieves the best MRR. The prize is expected to be an open-source microcontroller board, such as arduino or similar. 
 
-Accepted contributions will be presented during the SciReC2021 Online Workshop collocated at the 12th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM BCB).
+Accepted contributions will be presented during the SciReC2021 Online Workshop co-located at the 12th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM BCB).
 
 IMPORTANT DATES
 
