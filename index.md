@@ -150,6 +150,6 @@ Email: scirec2021@easychair.org
 This work was supported by FCT through funding of Deep Semantic Tagger (DeST) project (ref. PTDC/CCI-BIO/28685/2017), LASIGE Research Unit (ref. UIDB/00408/2020 and ref. UIDP/00408/2020), and PhD Scholarship ref. SFRH/BD/128840/2017, KNODIS, and [Unicage](https://unicage.eu/). 
 
 ![unicage](/images/unicage.png) 
-![FCT](/images/fct.png) 
+![FCT](/images/fct_t.png) 
 ![lasige](/images/lasige.png) 
-![ulisboa](/images/ulisboa.jpg)
+![ulisboa](/images/ulisboa_t.jpg)
