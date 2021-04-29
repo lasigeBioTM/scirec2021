@@ -1,6 +1,6 @@
 ## News
 
-* First call for participation:
+* First call for [participation](/news):
 
 SciReC2021 - Scientific Recommendations Challenge is the first challenge with the goal of benchmarking a new recommendation dataset in the fields of Health and Chemistry. SciReC2021 is organized by LASIGE, Faculty of Sciences, University of Lisbon, Portugal, and KNODIS, University Automona/Politecnica of Madrid, Spain.
 
