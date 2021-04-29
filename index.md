@@ -1,6 +1,6 @@
 ## News
 
-* [[April 27] Call for participation](/scirec2021/news):
+* [[April 27] Call for participation](/scirec2021/news)
 
 
 
@@ -15,7 +15,7 @@ In scientific fields, such as Health and Chemistry, standard and open access dat
 Since this is a new methodology, these kind of datasets are not yet widely assessed. 
 
 For this workshop we propose a challenge whose goal is benchmarking one of these datasets. 
-We will provide a standard dataset of implicit feedback focused in the fields of Health and Chemistry, specially developed from a corpus of documents related to COVID-19 disease. The items in the dataset are diseases from the Disease Ontology (DO) and chemical compounds from the Chemical Entities of Biological Interest ontology ([CHEBI](https://www.ebi.ac.uk/chebi/init.do)), with correspondence to the [DrugBank](https://go.drugbank.com/). The goal of the participants will be, given a set of users with a set of items ordered sequentially, to provide a ranked list with the possibilities of the next item for each one of those users. 
+We will provide a standard dataset of implicit feedback focused in the fields of Health and Chemistry, specially developed from a corpus of documents related to COVID-19 disease. The items in the dataset are diseases from the Disease Ontology ([DO](https://disease-ontology.org/)) and chemical compounds from the Chemical Entities of Biological Interest ontology ([CHEBI](https://www.ebi.ac.uk/chebi/init.do)), with correspondence to the [DrugBank](https://go.drugbank.com/). The goal of the participants will be, given a set of users with a set of items ordered sequentially, to provide a ranked list with the possibilities of the next item for each one of those users. 
 
 
 With this challenge we have as goals:
@@ -40,7 +40,7 @@ The pipeline used to create the dataset was as follows:
 - Named Entity Recognition (NER) of the entities of the DO and ChEBI (with link to DrugBank);
 - Extraction of the authors and publication date.
 
-The dataset has the format of <user, item, item_name, publication_date>, where the users are unique authors, the items are DO and ChEBI entities recognized in the articles in the NER phase. The dataset is sorted in ascending order by the user and followed by the year of publication.
+The dataset has the format of <user, item, rating, item_name, publication_date>, where the users are unique authors, the items are DO and ChEBI entities recognized in the articles in the NER phase. The dataset is sorted in ascending order by the user and followed by the year of publication.
 
 ### Evaluation 
 
