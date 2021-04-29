@@ -1,6 +1,6 @@
 ## News
 
-* [[April 27] Call for participation](/scirec2021/news)
+* [[April 29] Call for participation](/scirec2021/news)
 
 
 
