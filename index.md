@@ -125,3 +125,5 @@ This work was supported by FCT through funding of Deep Semantic Tagger (DeST) pr
 ![FCT](/images/fct_t.png) 
 ![lasige](/images/lasige.png) 
 ![ulisboa](/images/ulisboa.png)
+![upm](/images/upm.png)
+![uam](/images/uam.png)
