@@ -80,7 +80,7 @@ First we will release the train and the validations sets, and then the test set,
 - Camera-ready version deadline: July 25th, 2021
 - Workshop: August 1st, 2021
 
-## Submissions
+## Submission
 
 The participants are invited to submit a paper describing their solutions for the challenge.
 All submissions must be written in English following Springer [LNCS](http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) 
