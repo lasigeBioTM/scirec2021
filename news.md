@@ -30,3 +30,9 @@ ACADEMIC ORGANIZERS
 - Fernando Ortega Requena, Universidad Politécnica de Madrid, Spain
 
 A detailed description of the challenge is available on the website of the SciRec Challenge 2021: https://lasigebiotm.github.io/scirec2021
+
+
+- [May 31] Release of the test set: 
+
+Register your team and Download the datasets here: https://forms.gle/Bik6h6Zz62HG3YxYA
+Upload your predictions and get your score: https://lasigebiotm.github.io/scirec2021/competition

@@ -1,6 +1,7 @@
 ## News
 
 * [[April 29] Call for participation](/scirec2021/news)
+* [[May 31] Release of the test set](/scirec2021/news)
 
 
 
@@ -81,6 +82,8 @@ First we will release the train and the validations sets, and then the test set,
 - Workshop: August 1st, 2021
 
 ## Submissions
+
+Submit the prediction for the test set [here](https://lasigebiotm.github.io/scirec2021/competition)
 
 The participants are invited to submit a paper describing their solutions for the challenge.
 All submissions must be written in English following Springer [LNCS](http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) 
