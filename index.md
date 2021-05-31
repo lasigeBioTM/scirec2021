@@ -8,7 +8,7 @@
 ## About
 
 SciReC2021 - Scientific Recommendations Challenge is the first challenge with the goal of benchmarking a new recommendation dataset in the fields of Health and Chemistry. 
-SciReC2021 is organized by [LASIGE](https://www.lasige.pt/), Faculty of Sciences, University of Lisbon, Portugal, and KNODIS, University Automona/Politecnica of Madrid, Spain. 
+SciReC2021 is organized by [LASIGE](https://www.lasige.pt/), Faculty of Sciences, University of Lisbon, Portugal, and KNODIS, University Politecnica of Madrid / Universidad Autónoma de Madrid, Spain. 
 
 Recommender systems (RS) have been successfully explored in a vast number of domains, e.g. movies and TV shows, music, or e-commerce. In these domains we have a large number of datasets freely available for testing and evaluation of new recommender algorithms. For example, for movies we have Movielens and Netflix datasets. In music, we find datasets provided by Spotif, and for e-commerce, Amazon has been relentless in the promotion of these datasets, which translates in a large number of algorithms applied to these fields. 
 
@@ -81,7 +81,7 @@ First we will release the train and the validations sets, and then the test set,
 - Camera-ready version deadline: July 25th, 2021
 - Workshop: August 1st, 2021
 
-## Submissions
+## Submission
 
 Submit the prediction for the test set [here](https://lasigebiotm.github.io/scirec2021/competition)
 
@@ -128,3 +128,5 @@ This work was supported by FCT through funding of Deep Semantic Tagger (DeST) pr
 ![FCT](/images/fct_t.png) 
 ![lasige](/images/lasige.png) 
 ![ulisboa](/images/ulisboa.png)
+![upm](/images/upm.png)
+![uam](/images/uam.png)
