@@ -108,7 +108,7 @@
 
         var scoreboardRequest = new XMLHttpRequest();
         scoreboardRequest.overrideMimeType("application/json");
-        scoreboardRequest.open('GET', 'http://raptor.knodis.etsisi.upm.es:8000/ranking', true);
+        scoreboardRequest.open('GET', 'https://raptor.knodis.etsisi.upm.es/ranking', true);
         
         scoreboardRequest.onreadystatechange = function (aEvt) {
           if (scoreboardRequest.readyState == 4) {
@@ -127,7 +127,7 @@
     <script>
       document.getElementById("submit-button").addEventListener("click", function () {
         var submitRequest = new XMLHttpRequest();
-        submitRequest.open("POST", "http://raptor.knodis.etsisi.upm.es:8000/submit");
+        submitRequest.open("POST", "https://raptor.knodis.etsisi.upm.es/submit");
 
         submitRequest.onreadystatechange = function (aEvt) {
           if (submitRequest.readyState == 4) {
